@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
+<img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F301881981257998104%2F&psig=AOvVaw3EgheAQYrZgKhIybJxFj6X&ust=1732872831485000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiq_b7c_okDFQAAAAAdAAAAABAg)" alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm Shayaan Sadiq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
